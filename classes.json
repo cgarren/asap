@@ -1,0 +1,141 @@
+{
+		"ENG1": {
+			"a": {
+				"section":"a",
+				"size": 2,
+				"start_time": "9:30",
+				"end_time": "10:30",
+				"department": "English",
+				"location": "B201",
+				"professor": "Benjamin Ogden",
+				"credits": 3.0
+				},
+			"b": {
+				"section":"b",
+				"size": 3,
+				"start_time": "9:30",
+				"end_time": "10:30",
+				"department": "English",
+				"location": "B202",
+				"professor": "Benjamin Ogden",
+				"credits": 3.0
+				},
+			"c": {
+				"section":"c",
+				"size": 4,
+				"start_time": "9:30",
+				"end_time": "10:30",
+				"department": "English",
+				"location": "B202",
+				"professor": "Benjamin Ogden",
+				"credits": 3.0
+				}
+			},
+		"CALC1": {
+			"a": {
+				"section":"a",
+				"size": 2,
+				"start_time": "9:30",
+				"end_time": "10:30",
+				"department": "English",
+				"location": "B201",
+				"professor": "Benjamin Ogden",
+				"credits": 3.0
+				},
+			"b": {
+				"section":"b",
+				"size": 1,
+				"start_time": "9:30",
+				"end_time": "10:30",
+				"department": "English",
+				"location": "B202",
+				"professor": "Benjamin Ogden",
+				"credits": 3.0
+				},
+			"c": {
+				"section":"c",
+				"size": 5,
+				"start_time": "9:30",
+				"end_time": "10:30",
+				"department": "English",
+				"location": "B202",
+				"professor": "Benjamin Ogden",
+				"credits": 3.0
+				}
+			},
+		"CHEM1": {
+			"a": {
+				"section":"a",
+				"size": 3,
+				"start_time": "9:30",
+				"end_time": "10:30",
+				"department": "English",
+				"location": "B201",
+				"professor": "Benjamin Ogden",
+				"credits": 3.0
+				},
+			"b": {
+				"section":"b",
+				"size": 2,
+				"start_time": "9:30",
+				"end_time": "10:30",
+				"department": "English",
+				"location": "B202",
+				"professor": "Benjamin Ogden",
+				"credits": 3.0
+				},
+			"c": {
+				"section":"c",
+				"size": 4,
+				"start_time": "9:30",
+				"end_time": "10:30",
+				"department": "English",
+				"location": "B202",
+				"professor": "Benjamin Ogden",
+				"credits": 3.0
+				}
+			},
+
+		"PHY1": {
+			"a": {
+				"section":"a",
+				"size": 1,
+				"start_time": "9:30",
+				"end_time": "10:30",
+				"department": "English",
+				"location": "B201",
+				"professor": "Benjamin Ogden",
+				"credits": 3.0
+				},
+			"b": {
+				"section":"b",
+				"size": 1,
+				"start_time": "9:30",
+				"end_time": "10:30",
+				"department": "English",
+				"location": "B202",
+				"professor": "Benjamin Ogden",
+				"credits": 3.0
+				},
+			"c": {
+				"section":"c",
+				"size": 2,
+				"start_time": "9:30",
+				"end_time": "10:30",
+				"department": "English",
+				"location": "B202",
+				"professor": "Benjamin Ogden",
+				"credits": 3.0
+				},
+			"d": {
+				"section":"d",
+				"size": 3,
+				"start_time": "9:30",
+				"end_time": "10:30",
+				"department": "English",
+				"location": "B202",
+				"professor": "Benjamin Ogden",
+				"credits": 3.0
+				}
+			}
+}
